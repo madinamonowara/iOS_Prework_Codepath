@@ -4,7 +4,7 @@
 Click button to change color of label and print hello 
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" title='Video Walkthrough' width=200><br>
+<img src="https://i.imgur.com/G18GMA4.gif" title='Video Walkthrough' width=600><br>
 
 
 ### Required User Stories
