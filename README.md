@@ -1,9 +1,10 @@
+##Submitted by: Madina Monowara
 ## Hello_World_App_iOS_Prework
 
 ### App Description
 Click button to change color of label and print hello 
 
-### App Walk-though
+### App Walk-through
 <img src="https://i.imgur.com/G18GMA4.gif" title='Video Walkthrough' width=600><br>
 
 
