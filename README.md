@@ -1,4 +1,4 @@
-## Submitted by: Madina Monowara
+Submitted by: Madina Monowara
 ## Hello_World_App_iOS_Prework
 
 ### App Description
