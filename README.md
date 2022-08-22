@@ -5,7 +5,7 @@ Submitted by: Madina Monowara
 Click button to change color of label and print hello 
 
 ### App Walk-through
-<img src="https://i.imgur.com/G18GMA4.gif" title='Video Walkthrough' width=600><br>
+<img src="https://i.imgur.com/G18GMA4.gif" title='Video Walkthrough' width=800><br>
 
 
 ### Required User Stories
